@@ -6,7 +6,7 @@
 
 header {
   padding: 154px 0 100px;
-  background-image: url('../images/pic.png');
+  background-image: url("../images/pic.PNG");
 }
 
 @media (min-width: 992px) {
